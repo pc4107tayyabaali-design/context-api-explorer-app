@@ -1,0 +1,8 @@
+{
+  "name": "Context API Explorer App",
+  "description": "A comprehensive React SPA demonstrating advanced Context API usage, authentication, theme switching, and product catalog management with a modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
